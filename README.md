@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Muhammad Iqbal
 
-I'm a Computer Science (Graphic and Multimedia) student at Universiti Teknologi Malaysia (UTM) with a strong passion for **UI/UX design, web development, and digital logic systems**. My journey blends creativity with technical precision—I enjoy turning ideas into polished, user-friendly interfaces while ensuring the underlying systems are efficient and reliable.
+I'm a Computer Science (Graphic and Multimedia) student at Universiti Teknologi Malaysia (UTM) with a strong passion for **UI/UX design, web development, and digital systems**. My journey blends creativity with technical precision—I enjoy turning ideas into polished, user-friendly interfaces while ensuring the underlying systems are efficient and reliable.
 
 ## 👨‍🏫 Education
 - **Sijil Pelajaran Malaysia (SPM) / O-Level**: 9A+
