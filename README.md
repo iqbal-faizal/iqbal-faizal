@@ -2,6 +2,12 @@
 
 I'm a Computer Science (Graphic and Multimedia) student at Universiti Teknologi Malaysia (UTM) with a strong passion for **UI/UX design, web development, and digital logic systems**. My journey blends creativity with technical precision—I enjoy turning ideas into polished, user-friendly interfaces while ensuring the underlying systems are efficient and reliable.
 
+## 👨‍🏫 Education
+- **Sijil Pelajaran Malaysia (SPM) / O-Level**: 9A+
+- **Pre-University Qualifications**: GCE A-Level (2B, 1C)
+- **Undergraduate Program**: Bachelor of Computer Science (Graphic Software and Multimedia) with Honours, Universiti Teknologi Malaysia 
+
+
 ## 🚀 Current Projects
 - **AI Smart Schedule**: A scheduling app that integrates multimedia elements, design thinking, and smart automation to help users manage time effectively.  
 - **Academic Assignments & Labs**: Exploring digital logic, gate-level design, and practical circuit implementation using NAND gates.  
